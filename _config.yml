@@ -1,4 +1,3 @@
-layout_spectrum: 0.4831184260547161
 typography_spectrum: 0.5060229850932956
 color:
   brandStrength: 0.5286096658091992
@@ -6,9 +5,11 @@ color:
   saturation: 0.840033299755305
   rhythmicContrast: 0.8785800766199827
   brandColors:
-    - '#FFFFFF'
-    - '#323232'
-    - '#C1C1C1'
-    - '#5A5A5A'
-    - '#217329'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.4831184260547161
 name: jenuien
+title: Jenuien
